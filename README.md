@@ -39,7 +39,8 @@ synchronises application data across iOS, Android, and Web devices, and stores i
 **2. LOGIN :**
 
  ![Capture2](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/cc886043-5df5-4c18-b62e-a5ff18d46960)
- ![Capture](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/e9ee9bec-e98e-48de-85bb-4a91485d9b0d)
+ ![Capture4](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/0c9d6ad3-abdc-4e66-a7f5-568718f83493)
+
 
 **ARCHITECTURE :**
 
