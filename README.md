@@ -33,11 +33,15 @@ synchronises application data across iOS, Android, and Web devices, and stores i
 6.	AQICN : AQICN is a website that provides us with realtime air pollution index along with map in almost 60 countries.
 7.	JAVASCRIPT : JAVASCRIPT here we used to create the server side module.
 WORKING FLOW : 
-  
-2. LOGIN :
- 
  
-ARCHITECTURE : 
-  
+2. LOGIN :
+
+ ![Capture2](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/cc886043-5df5-4c18-b62e-a5ff18d46960)
+ ![Capture](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/e9ee9bec-e98e-48de-85bb-4a91485d9b0d)
+
+ARCHITECTURE :
+  ![Picture2](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/aa0cfc83-5848-432c-baf6-912d8ce21de4)
+
 USECASE DIAGRAM :
  
+![Picture1](https://github.com/nikhilreddy2578/Smart-India-Hackathon-project/assets/85238894/b8c4457c-4dd5-4de9-ad85-f75717160f33)
